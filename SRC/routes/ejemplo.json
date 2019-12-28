@@ -1,0 +1,23 @@
+[
+	{
+		"director": "steven spielberg",
+		"Titulo": "Jurasic park",
+		"Año": "1995",
+		"genero": "accion",
+		"rating": "85"
+	},
+	{
+		"director": "james cameron",
+		"Titulo": "titanic",
+		"Año": "1997",
+		"genero": "drama",
+		"rating": "100"
+	},
+	{
+		"director": "F gary gray",
+		"Titulo": "rapido y furioso 8",
+		"Año": "2019",
+		"genero": "accion",
+		"rating": "85"
+	}
+]

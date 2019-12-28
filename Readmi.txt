@@ -1,0 +1,7 @@
+crear carpeta
+abrir en visual estidio code
+abrir terminal en visual estidio code
+ejecutar npm init --yes el cual crea un package json con las dependencias a utilizar
+ejecutamos los comandos npm i express morgan  morgan nos permite ver de manera sencilla las peticiones que van llegando
+crear una carpeta SRC
+dentro de la carpeta SRC crear un archivo index.js
