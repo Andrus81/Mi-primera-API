@@ -3,7 +3,7 @@ const  {Router} = require('express');
 const  router = Router();  
 
 
-router.get('/movies',(req , res) =>{
+router.get('/',(req , res) =>{
     const data={
                 "Genero": "accion",
                 "Duracion": "130min", 

@@ -4,6 +4,7 @@ const morgan = require('morgan');
 
 //routes
 app.use(require('./routes/index'));
+app.use('/api/movies',require('./routes/movies'));
 
 // settings
 app.set('port', process.env.PORT || 3000);
